@@ -88,6 +88,60 @@ const songs = [
     "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
     audio:
     "https://res.cloudinary.com/djy6ynbju/video/upload/v1780294647/Penne-Neeyum_jbatbu.mp3"
+  },
+  {
+    id: 11,
+    title: "Adiyae Kolluthey",
+    movie: "Vaaranam aayiram",
+    image:
+    "https://images.unsplash.com/photo-1517840901100-8179e982acb7?q=80&w=1200&auto=format&fit=crop",
+    audio:
+    "https://res.cloudinary.com/djy6ynbju/video/upload/v1780296608/Adiyae_Kolluthey_-_TamilDada.Com_dkfglj.mp3"
+  },
+  {
+    id: 12,
+    title: "Annul Maelae",
+    movie: "Vaaranam aayiram",
+    image:
+    "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?q=80&w=1200&auto=format&fit=crop",
+    audio:
+    "https://res.cloudinary.com/djy6ynbju/video/upload/v1780297082/Annul_Maelae-StarMusiQ.Com_k5k1bz.mp3"
+  },
+  {
+    id: 13,
+    title: "Mundhinam Parthene",
+    movie: "Vaaranam aayiram",
+    image:
+    "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?q=80&w=1200&auto=format&fit=crop",
+    audio:
+    "https://res.cloudinary.com/djy6ynbju/video/upload/v1780297240/Mundhinam_Parthene-StarMusiQ.Com_nv6yld.mp3"
+  },
+  {
+    id: 14,
+    title: "Nenjukkul Poidum",
+    movie: "Vaaranam aayiram",
+    image:
+    "https://images.unsplash.com/photo-1517841905240-472988babdf9?q=80&w=1200&auto=format&fit=crop",
+    audio:
+    "https://res.cloudinary.com/djy6ynbju/video/upload/v1780297297/Nenjukkul_Peidhidum_-_TamilDada.Com_m9r59t.mp3"
+  },
+  {
+    id: 15,
+    title: "Oh Shanthi Shanth",
+    movie: "Vaaranam aayiram",
+    image:
+    "https://images.unsplash.com/photo-1518568814500-bf0f8d125f46?q=80&w=1200&auto=format&fit=crop",
+    audio:
+    "https://res.cloudinary.com/djy6ynbju/video/upload/v1780297340/Oh_Shanthi_Shanth_-_TamilDada.Com_yjraia.mp3"
+  },
+  {
+    id: 16,
+    title: "Yethi Yethi",
+    movie: "Vaaranam aayiram",
+    image:
+    "https://images.unsplash.com/photo-1511884642898-4c92249e20b6?q=80&w=1200&auto=format&fit=crop",
+    audio:
+    "https://res.cloudinary.com/djy6ynbju/video/upload/v1780297392/Yethi_Yethi_-_TamilDada.Com_jqtmlr.mp3"
   }
 ];
 
