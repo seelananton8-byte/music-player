@@ -53,6 +53,42 @@ const songs = [
     audio:
       "https://res.cloudinary.com/djy6ynbju/video/upload/v1778324409/Aathadi_Aathadi-StarMusiQ.Com_hvfuvd.mp3",
   },
+  {
+    id: 7,
+    title: "Entha Thesathil",
+    movie: "Tamil Love",
+    image: 
+    "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=1200&auto=format&fit=crop",
+    audio:
+    "https://res.cloudinary.com/djy6ynbju/video/upload/v1780294016/Entha-Thesathil_qduklj.mp3"
+  },
+  {
+    id: 8,
+    title: "Kattre-Poongattre",
+    movie: "Tamil Love",
+    image:
+    "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?q=80&w=1200&auto=format&fit=crop",
+    audio:
+    "https://res.cloudinary.com/djy6ynbju/video/upload/v1780294255/Kattre-Poongattre_udplvl.mp3"
+  },
+  {
+    id: 9,
+    title: "Maan Kuttiye",
+    movie: "Tamil Love",
+    image:
+    "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=1200&auto=format&fit=crop",
+    audio:
+    "https://res.cloudinary.com/djy6ynbju/video/upload/v1780294390/Maan-Kuttiye_hbrhrk.mp3"
+  },
+  {
+    id: 10,
+    title: "Penne Neeyum",
+    movie: "Tamil Love",
+    image:
+    "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
+    audio:
+    "https://res.cloudinary.com/djy6ynbju/video/upload/v1780294647/Penne-Neeyum_jbatbu.mp3"
+  }
 ];
 
 export default songs;
