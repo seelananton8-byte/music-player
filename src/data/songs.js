@@ -142,6 +142,42 @@ const songs = [
     "https://images.unsplash.com/photo-1511884642898-4c92249e20b6?q=80&w=1200&auto=format&fit=crop",
     audio:
     "https://res.cloudinary.com/djy6ynbju/video/upload/v1780297392/Yethi_Yethi_-_TamilDada.Com_jqtmlr.mp3"
+  },
+  {
+    id: 17,
+    title: "Aaha Enbargal",
+    movie: "Vaseegara",
+    image:
+    "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?q=80&w=1200&auto=format&fit=crop",
+    audio:
+    "https://res.cloudinary.com/djy6ynbju/video/upload/v1780304176/Aaha-Enbargal_fuv60w.mp3"
+  },
+  {
+    id: 18,
+    title: "Nenjam Oru Murai",
+    movie: "Vaseegara",
+    image:
+    "https://images.unsplash.com/photo-1519741497674-611481863552?q=80&w=1200&auto=format&fit=crop",
+    audio:
+    "https://res.cloudinary.com/djy6ynbju/video/upload/v1780304455/Nenjam-Oru-Murai_halwsv.mp3"
+  },
+  {
+    id: 19,
+    title: "Oru Thadavai",
+    movie: "Vaseegara",
+    image:
+    "https://images.unsplash.com/photo-1517457373958-b7bdd4587205?q=80&w=1200&auto=format&fit=crop",
+    audio:
+    "https://res.cloudinary.com/djy6ynbju/video/upload/v1780304629/Oru-Thadavai_byr95m.mp3"
+  },
+  {
+    id: 20,
+    title: "Vena Vena",
+    movie: "Vaseegara",
+    image:
+    "https://images.unsplash.com/photo-1517841905240-472988babdf9?q=80&w=1200&auto=format&fit=crop",
+    audio:
+    "https://res.cloudinary.com/djy6ynbju/video/upload/v1780304684/Vena-Vena_pmsrio.mp3"
   }
 ];
 
