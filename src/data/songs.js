@@ -178,6 +178,51 @@ const songs = [
     "https://images.unsplash.com/photo-1517841905240-472988babdf9?q=80&w=1200&auto=format&fit=crop",
     audio:
     "https://res.cloudinary.com/djy6ynbju/video/upload/v1780304684/Vena-Vena_pmsrio.mp3"
+  },
+  {
+    id: 21,
+    title: "Azhagiye",
+    movie: "Katru Veliyidai",
+    image:
+    "https://images.unsplash.com/photo-1511988617509-a57c8a288659?q=80&w=1200&auto=format&fit=crop",
+    audio:
+    "https://res.cloudinary.com/djy6ynbju/video/upload/v1780372145/Azhagiye_-_MassTamilan.com_s9adzd.mp3"
+  },
+  {
+    id: 22,
+    title: "Saarattu Vandiyila",
+    movie: "Katru Veliyidai",
+    image:
+    "https://images.unsplash.com/photo-1517841905240-472988babdf9?q=80&w=1200&auto=format&fit=crop",
+    audio:
+    "https://res.cloudinary.com/djy6ynbju/video/upload/v1780372356/Saarattu_Vandiyila_-_MassTamilan.com_bhgddg.mp3"
+  },
+  {
+    id: 23,
+    title: "Dhimu Dhimu",
+    movie: "Engeyum Kadhal",
+    image:
+    "https://images.unsplash.com/photo-1517457373958-b7bdd4587205?q=80&w=1200&auto=format&fit=crop",
+    audio:
+    "https://res.cloudinary.com/djy6ynbju/video/upload/v1780372468/Dhimu-Dhimu_bkghox.mp3"
+  },
+  {
+    id: 24,
+    title: "Nangaai",
+    movie: "Engeyum Kadhal",
+    image:
+    "https://images.unsplash.com/photo-1519741497674-611481863552?q=80&w=1200&auto=format&fit=crop",
+    audio:
+    "https://res.cloudinary.com/djy6ynbju/video/upload/v1780372532/Nangaai_t1owlx.mp3"
+  },
+  {
+    id: 25,
+    title: "Thee Illai",
+    movie: "Engeyum Kadhal",
+    image:
+    "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?q=80&w=1200&auto=format&fit=crop",
+    audio:
+    "https://res.cloudinary.com/djy6ynbju/video/upload/v1780372583/Thee-Illai_i23j9n.mp3"
   }
 ];
 
